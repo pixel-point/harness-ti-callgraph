@@ -9,4 +9,7 @@ Following functionality available:
 3. Interactions (moving nodes around)
 4. Search
 
-App shallowly resembles TI reports page
+App shallowly resembles TI reports page,
+but to avoid exposing private codebase I had 
+to avoid using exact components and building
+new would have taken too much time.
